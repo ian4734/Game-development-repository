@@ -11,6 +11,8 @@ opdracht 2.1: Ik heb een draaiend mintje gemaakt doormiddel van het gebruiken va
 Opdracht 2.2: ik heb een gamingstats dashboard gemaakt doormiddel van public int.
 ![Gamingstatsdashboard (2 2)](https://github.com/user-attachments/assets/659aef95-6817-45df-9b9e-742c900ca567)
 
+Opdracht 3.1: ik heb een vallende ball met een stuiter gemaakt. 
 
 
+Opdracht 3.2: ik hbe een musicplayer gamaakt met behulp van void, strings en bools:
 
